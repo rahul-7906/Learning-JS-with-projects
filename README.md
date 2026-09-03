@@ -30,7 +30,7 @@ Reset functionality to clear match records.
 
 Screenshots:
 
-Game Play View: ![Cricket Game](./Screenshot%202026-09-03%20065453.jpg)
+Game Play View:![Cricket Game](./Screenshot%202026-09-03%20065453.jpg)
 
 3. ✅ Todo App
 Description: A sleek task-management productivity application designed to organize daily chores and study goals with integrated due dates.
@@ -45,7 +45,7 @@ Individual item deletion capabilities via dedicated action buttons.
 
 Screenshots:
 
-Task Dashboard: ![Todo App Dashboard](./Screenshot%202026-09-03%20065747.jpg)
+Task Dashboard:![Todo App Dashboard](./Screenshot%202026-09-03%20065747.jpg)
 
 🛠️ Technologies Used
 HTML5: Semantic markup structure for all applications.
