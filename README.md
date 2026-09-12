@@ -28,6 +28,8 @@ Live score tracking displaying wins, losses, and ties (No. of matches win:1, los
 
 Reset functionality to clear match records.
 
+Live Deploy : https://deft-cucurucho-358e29.netlify.app/
+
 Screenshots:
 
 Game Play View:![Cricket Game](./Screenshot%202026-09-03%20065453.jpg)
